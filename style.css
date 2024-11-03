@@ -1,0 +1,42 @@
+.calc{
+    width: 350px;
+    height: 600px;
+    background: black;
+    border-radius: 30px;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+#screen{
+    height: 50px;
+    width: 90%;
+    margin-top: 100px;
+    font-size: 35px;
+    border-width: 0;
+    color: white;
+    background: black;
+    pointer-events: none;
+    text-align: right;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 15px;
+    border-width: 0;
+    background: #393535;
+    color: white;
+    font-size: 20px;
+}
+.row{
+    margin-top: 16px;
+}
+.digits{
+    padding-top: 58px;
+    padding-left: 9px;
+}
+#eql{
+    background: rgb(178, 107, 56);
+}
+#ac{
+    background: #393535a3;
+}
